@@ -1,3 +1,7 @@
+/* Extensible hash
+ * Author: Douglas Canevarollo 
+ * Date: 11/12/2018 */
+
 #include "ext-hash.h"
 
 int globalDepth = 2, idCtrl = 0, numberDir = 0;
