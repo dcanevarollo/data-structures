@@ -1,3 +1,7 @@
+/* Closed addressing hash
+ * Author: Douglas Canevarollo 
+ * Date: 23/10/2018 */
+
 #include "closed-hash.h"
 
 int mod = 0;
