@@ -1,3 +1,7 @@
+/* Closed addressing hash
+ * Author: Douglas Canevarollo 
+ * Date: 23/10/2018 */
+
 #ifndef CLOSED_HASH_H
 #define CLOSED_HASH_H
 
