@@ -1,3 +1,7 @@
+/* Extensible hash
+ * Author: Douglas Canevarollo 
+ * Date: 11/12/2018 */
+
 #ifndef EXT_HASH_H
 #define EXT_HASH_H
 
