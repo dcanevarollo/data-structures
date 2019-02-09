@@ -1,3 +1,7 @@
+/* File system manager 
+ * Authors: Douglas Canevarollo, Douglas Brandão, Gabriel Andrey 
+ * Date: 10/11/2018 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
