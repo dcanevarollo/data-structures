@@ -85,7 +85,7 @@ class MaxHeap:
             self.queue[i], self.queue[largest] = self.queue[largest], self.queue[i]  # Swap the elements.
             self.heapify(largest)  # Recursively heapify the new node.
 
-    # Inserts the element 'record' in the queue.
+    # Inserts the element 'key' in the queue.
     def insert(self, key):
         self.queue.append(key)
         self.make_heap()
