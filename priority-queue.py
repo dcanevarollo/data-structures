@@ -1,3 +1,6 @@
+# Priority queue system
+# Author: Douglas Canevarollo
+
 # The priority queue uses the max heap structure to always maintain the
 # most important key as the first element of the queue or the root of the heap tree.
 # Thus, the time complexity to retrieve data from the priority queue is O(1).
