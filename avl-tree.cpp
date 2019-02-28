@@ -1,3 +1,7 @@
+/* AVL tree implementation
+ * Author: Douglas Canevarollo
+ * Date: 07/05/2018 */
+
 #include <iostream>
 #include <windows.h> //sleep
 using namespace std;
