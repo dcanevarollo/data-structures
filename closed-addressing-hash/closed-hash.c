@@ -2,6 +2,12 @@
  * Author: Douglas Canevarollo 
  * Date: 23/10/2018 */
 
+/* This algorithm tries to solve a colision problem with direct hashing mappings. To do that, it creates linked lists
+ * on the hash array entries that colisions appear. At first, may look that it will imply in a linear search time
+ * complexity class (O(n)), but if our hash function is optimal - at its possible - our keys will have an uniform
+ * distribution through the hash array. So, the search time class is actually O(1 + a), where 'a' is the number
+ * of elements in our linked lists. */
+
 #include "closed-hash.h"
 
 int mod = 0;
